@@ -1,0 +1,108 @@
+.containerFooter {
+    margin-top: 40px;
+    margin-bottom: 0px;
+    padding-bottom: 80px;
+    color: #998f61;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 1024px;
+    background-color:  #104336;
+}
+
+.upFooter {
+    display: flex;
+    justify-content: center;
+}
+.logoFooterBabe {
+    width: 100px;
+    border-right: #dcd37a 6px solid;
+    border-left: #dcd37a 6px solid;
+    border-bottom: #dcd37a 6px solid;
+
+}
+
+.openFooterMiddle{
+    margin: 3px;
+}
+
+.contactTitleFooter {
+    font-size: 25px;
+}
+
+
+.downFooter{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.openFooter {
+    color: #dcd37a;
+    margin-left: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactFooter {
+    margin: 0px;
+ 
+    
+}
+
+.openFooter{
+    margin-left: 100px;
+ 
+}
+
+.menuFooter{
+   
+    display: flex;
+    flex-direction: column;
+}
+
+.privacyFooter {
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.menuWritten{
+    font-size: 25px;
+    color: #998f61;
+    text-decoration: none;
+    transition: color 0.3s ease, transform 0.3s ease;
+    padding: 10px;
+    font-weight: 100;
+}
+
+.subcontactFooter{
+    padding: 0px;
+    font-weight: 400;
+    margin: 5px;
+}
+
+
+.menuWritten:hover {
+    color: #dcd37a;
+    transform: scale(1.6); 
+  }
+
+.socialMediaFooter {
+    padding: 6px;
+    transition: color 0.3s ease, transform 0.3s ease;
+   
+}  
+
+.socialMediaFooter:hover {
+    transform: scale(1.5); 
+}
+
+ .logosFooter {
+    margin-left: 2px;
+
+  }
