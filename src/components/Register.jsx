@@ -1,4 +1,5 @@
 import "../styleMathieu/Register.css";
+import girl from "../assets/Pics Coffee/girl.png"
 
 export default function Register() {
 
@@ -13,7 +14,7 @@ export default function Register() {
                 <button className="buttonMathieu">Order Now</button>
             </div>
             <div className="registerRight">
-                <img className="registerGirl" src="src/assets/Pics Coffee/girl.png" alt="" />
+                <img className="registerGirl" src={girl} alt="" />
             </div>
 
 
