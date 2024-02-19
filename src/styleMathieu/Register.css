@@ -1,0 +1,83 @@
+.containerRegister {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: #998f61;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1024px;
+    background: linear-gradient(
+        to left,
+        #104336 0%,
+        #104336 40%,
+        #F3E7CE 40%,
+        #F3E7CE 100%
+      );
+}
+
+.registerTitle {
+    font-weight: 400;
+}
+.registerLeft {
+    width: 200px;
+    margin-top: 80px;
+
+}
+
+.registerRight {
+    position: relative; 
+  }
+
+.registerGirl{
+    width: 500px;
+    border: 6px #998f61 solid;
+    margin: 40px;
+    margin-bottom: 80px;
+}
+
+.registerRight {
+    position: relative; /* Ensure positioning context for absolute positioning */
+  }
+  
+  .registerGirl {
+    width: 500px;
+    border: 6px #998f61 solid;
+    margin: 40px;
+    margin-bottom: 80px;
+  }
+
+
+  .registerRight:hover .textOverlayGirl {
+    opacity: 1;
+  }
+  
+  .textOverlayGirl {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:black;
+    padding: 10px;
+    font-size: 20px;
+    opacity: 0; 
+    transition: opacity 1.6s;
+  }
+  
+.buttonMathieu {
+    color: #998f61;
+    font-size: 20px;
+    border: 3px solid;
+    background-color: rgba(255, 255, 255, 0);
+    width: 120px;
+    height: 50px;
+    transition: color 0.3s ease, transform 0.3s ease;
+    
+
+}
+
+.buttonMathieu:hover {
+    background-color:  #998f61; /* Change background color on hover */
+    color:   #104336 ;
+    border: #998f61;
+    transform: scale(1.1);
+}
