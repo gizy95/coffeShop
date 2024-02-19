@@ -20,6 +20,12 @@
 }
 .navbar li {
   color: #998f61;
+  cursor: pointer;
+}
+
+.navbar li:hover {
+  font-weight: bold;
+  color: #f3e7ce;
 }
 
 .logo {
