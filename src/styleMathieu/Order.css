@@ -1,22 +1,22 @@
 .containerOrder {
+    margin-left: auto;
+    margin-right: auto;
     color: #998f61;
     display: flex;
     flex-direction: column;
     justify-content: center;
     width: 1024px;
-    background: linear-gradient(
-        to top,
-        #104336 0%,
-        #104336 35%,
-        #F3E7CE 35%,
-        #F3E7CE 100%
-      );
+    background: linear-gradient(to top,
+            #104336 0%,
+            #104336 35%,
+            #F3E7CE 35%,
+            #F3E7CE 100%);
 }
 
 .bagsOrder {
     border: 6px #998f61 solid;
     width: 500px
-   /*  height: 100px;  */
+        /*  height: 100px;  */
 }
 
 .insideOrder {
@@ -26,18 +26,18 @@
 }
 
 .titleOrder {
-   margin-left:220px;
-   width: 500px;
-   font-weight: 400;   
+    margin-left: 220px;
+    width: 500px;
+    font-weight: 400;
 }
 
-.pubOrder{
-    width:15%; 
+.pubOrder {
+    width: 15%;
     transition: transform 0.5s ease;
 }
 
 .pubOrder:hover {
-    transform: scale(1.6); 
+    transform: scale(1.6);
 
 }
 
