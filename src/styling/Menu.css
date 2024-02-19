@@ -1,0 +1,79 @@
+.menu-section {
+    margin-bottom: 80px;
+    background-color: #F3E7ce;
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.menu {
+    color: #998f61;
+    font-size: 48px;
+    text-align: center;
+    background-color: #F3E7ce;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+
+.coffes {
+    display: flex;
+    justify-content: space-around;
+    background-color: #F3E7ce;
+    padding-bottom: 180px;
+    color: #898e7b;
+
+
+}
+
+.coffe-select {
+    display: flex;
+    flex-direction: column;
+}
+
+.coffe-select h3 {
+    margin-left: -19px;
+    color: #998f61;
+    padding: 10px 64px;
+    background-color: #1e302a;
+    justify-content: space-around;
+
+}
+
+.coffe-select p {
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-top: 4px;
+}
+
+
+.coffe_price {
+    padding-left: 38px;
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+
+}
+
+.bold_price {
+    font-weight: 1000;
+}
+
+.images {
+
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 200px;
+    background-color: #104336;
+
+
+}
+
+.images img {
+    margin-top: -100px;
+
+    width: 200px;
+    height: 200px;
+    border: 10px solid #998f61;
+}
