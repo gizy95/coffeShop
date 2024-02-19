@@ -1,0 +1,61 @@
+.sustainable_section {
+    margin-bottom: 80px;
+    background-color: #F3E7ce;
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.sustainable {
+    padding-top: 20px;
+    background-color: #F3E7ce;
+    height: 300px;
+    font-size: 50px;
+    padding: 20px;
+
+}
+
+.sustainable h2 {
+    max-width: 500px;
+    margin-left: 30px;
+    color: #998f61;
+
+}
+
+.sustainable_cup {
+    height: 300px;
+    font-size: 26px;
+    background-color: #104336;
+}
+
+.sustainable_cup h2 {
+    text-align: center;
+    max-width: 400px;
+    margin-left: 30px;
+    padding-top: 100px;
+    color: #dcd178;
+}
+
+
+.sustainable_cup img {
+    position: relative;
+    left: 470px;
+    border: 10px solid #998f61;
+    bottom: 500px;
+}
+
+.sustainable_lorem {
+    background-color: #F3E7ce;
+    height: 300px;
+}
+
+.sustainable_lorem p {
+    color: #5e8379;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 20px;
+    margin-left: 30px;
+    max-width: 450px;
+    height: 300px;
+}
