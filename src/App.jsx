@@ -17,11 +17,11 @@ function App() {
     <>
       <NavBar />
       <AboutUs />
-      <TastingDay />
       <Menu />
       <OpenHours />
-      <SmilingGuy />
       <Order />
+      <SmilingGuy />
+      <TastingDay />
       <Register />
       <Footer />
     </>
